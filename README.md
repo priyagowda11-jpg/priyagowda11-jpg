@@ -1,14 +1,14 @@
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Priya&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+![Visitor Count](https://komarev.com/ghpvc/?username=priyagowda11-jpg&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
-# Hi there, I'm Priya 👋
+# Hi there, I'm priyagowda11-jpg 👋
 
 ### Embedded AI & IoT Systems Developer | EEE Student | Python • Web • ML
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN-URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://YOUR-PORTFOLIO-URL)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Priya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/priya-g-07422429a/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://priya-gowda-portfolio.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/priyagowda11-jpg)
 
 </div>
 
@@ -21,7 +21,7 @@ I am an **Electrical & Electronics Engineering** student who builds **intelligen
 My EEE background gives me a rare edge: I understand circuits, sensors, and embedded logic **and** I can build the Python backend and web dashboard on top of it.
 
 ```python
-priya = {
+priyagowda11-jpg = {
     "focus"     : ["IoT", "Embedded Systems", "AI/ML", "Web Development"],
     "hardware"  : ["ESP32", "Arduino", "Sensors"],
     "languages" : ["Python", "JavaScript", "C"],
