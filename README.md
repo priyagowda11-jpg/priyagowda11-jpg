@@ -2,9 +2,9 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=priyagowda11-jpg&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
-# Hi there, I'm priyagowda11-jpg 👋
+# Hi there, I'm Priya G 👋
 
-### Embedded AI & IoT Systems Developer | EEE Student | Python • Web • ML
+### Embedded AI & IoT Systems Developer | EEE Student | Python • ESP32 • Flask • Web
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/priya-g-07422429a/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://priya-gowda-portfolio.netlify.app/)
@@ -16,18 +16,19 @@
 
 ## 🧠 About Me
 
-I am an **Electrical & Electronics Engineering** student who builds **intelligent real-world systems** — where hardware meets software meets AI.
+I am an **Electrical & Electronics Engineering** student (3rd year, CGPA 8.5/10) who builds **intelligent real-world systems** — where hardware meets software meets AI.
 
-My EEE background gives me a rare edge: I understand circuits, sensors, and embedded logic **and** I can build the Python backend and web dashboard on top of it.
+My EEE background gives me a rare edge: I understand circuits, sensors, and embedded logic **and** I can build the Python backend and web/mobile layer on top of it. I completed a 3-month Full Stack Web Development internship at Pantech AI, delivering production-level projects.
 
 ```python
-priyagowda11-jpg = {
-    "focus"     : ["IoT", "Embedded Systems", "AI/ML", "Web Development"],
-    "hardware"  : ["ESP32", "Arduino", "Sensors"],
+priya_g = {
+    "focus"     : ["IoT", "Embedded Systems", "AI/ML", "Full-Stack Web"],
+    "hardware"  : ["ESP32", "Arduino", "Fingerprint & DHT11 Sensors"],
     "languages" : ["Python", "JavaScript", "C"],
-    "web"       : ["Flask", "React", "HTML/CSS"],
+    "web_mobile": ["Flask", "React.js", "Flutter", "HTML/CSS"],
+    "cloud"     : ["Firebase", "Supabase"],
     "goal"      : "Embedded AI Systems Engineer",
-    "currently" : "Building EV Charge Prediction App 🚗⚡"
+    "currently" : "Building ASHA Worker App — Health Data Platform 🩺📡"
 }
 ```
 
@@ -40,11 +41,16 @@ priyagowda11-jpg = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-### 🌐 Web Development
+### 🌐 Web & Mobile Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### ☁️ Cloud & Backend
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### 📡 IoT & Embedded
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
@@ -64,28 +70,17 @@ priyagowda11-jpg = {
 
 ## 🚀 Projects
 
-> 6 real projects across full-stack web, AI/ML, security, and smart systems.
-
-### 🌐 Web & Full Stack
+> Real projects spanning embedded IoT, AI-powered dashboards, and full-stack web/mobile.
 
 | # | Project | What It Does | Stack | Status |
 |---|---------|--------------|-------|--------|
-| 1 | [📸 Instagram Clone](https://github.com/Priya/instagram-clone) | Full social media clone — auth, feed, image upload, follow system | Flask, Python, HTML/CSS, JS | ✅ **Live** |
-| 2 | [🎨 Personal Portfolio](https://github.com/Priya/portfolio) | Developer portfolio — projects, skills, contact form | HTML, CSS, JS | ✅ **Live** |
+| 1 | 🗳️ Secure Digital Voting System | Fingerprint-based biometric authentication via ESP32, Flask backend, Supabase PostgreSQL for tamper-proof vote storage; dual hardware + web admin interface | Python, Flask, ESP32, Fingerprint Sensor, Supabase | ✅ Done |
+| 2 | 🌬️ AeroGrid AI — Wind Turbine IoT Dashboard | ESP32 + DHT11 sensors streaming live environmental data to Firebase; React/Vite dashboard with AI-powered anomaly detection for remote turbine health monitoring | React, Flask, Firebase, ESP32, DHT11 | ✅ Done |
+| 3 | 📸 Instagram Clone | Full social media clone — auth, dynamic feed, image upload, follow/unfollow system (built during Pantech AI internship) | Flask, Python, HTML/CSS, JS | ✅ Live |
+| 4 | 🎨 Personal Developer Portfolio | Responsive dark-themed portfolio with typing animation and mobile-first layout — [priya-gowda-portfolio.netlify.app](https://priya-gowda-portfolio.netlify.app/) | HTML, CSS, JavaScript, React.js | ✅ Live |
+| 5 | 🩺 ASHA Worker App — Health Data Platform | Flutter mobile app for ASHA health workers to record and sync patient vitals with Firebase in low-connectivity regions, with ESP32 sensor integration for automated vitals capture | Flutter, Firebase, ESP32 | 🔨 In Progress |
 
-### 🤖 AI & Machine Learning
-
-| # | Project | What It Does | Stack | Status |
-|---|---------|--------------|-------|--------|
-| 3 | [🚗 EV Charge Prediction](https://github.com/Priya/ev-charge-prediction) | Predicts EV charging demand using ML — EEE + AI fusion project | Python, Scikit-learn, Pandas, Flask | 🔨 Building |
-| 4 | [🔍 AI Fraud Detection](https://github.com/Priya/ai-fraud-detection-demo) | Detects fraudulent transactions using classification ML models | Python, Scikit-learn | ✅ Done |
-
-### 🔐 Security & Systems
-
-| # | Project | What It Does | Stack | Status |
-|---|---------|--------------|-------|--------|
-| 5 | [🗳️ Voting Prototype](https://github.com/Priya/voting-proto-demo) | Secure digital voting system prototype | Python, Flask | ✅ Done |
-| 6 | [🔐 SecureOne](https://github.com/Priya/SecureOne-demo) | Security-focused web application | Python, Flask, JS | ✅ Done |
+*(Repo links to be added — ping me if you'd like these linked to your actual GitHub repos.)*
 
 ---
 
@@ -93,30 +88,34 @@ priyagowda11-jpg = {
 
 <div align="center">
 
-![Priya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Priya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyagowda11-jpg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priya&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyagowda11-jpg&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Priya&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyagowda11-jpg&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
+## 🎓 Education
+
+**B.E. — Electrical & Electronics Engineering**
+RajaRajeswari College of Engineering, Bengaluru
+Expected 2027 | CGPA: 8.5 / 10.0
+
+---
+
 ## 📜 Certifications & Achievements
 
-| Achievement | Issuer | Type |
-|---|---|---|
-| 🏢 Full Stack Web Dev Internship (3 Months) | Pantech AI | Internship |
-| 🌐 Website Building Internship | Pantech AI | Internship |
-| 📘 AI & ML in Material Engineering | NPTEL | Certification |
-| 🐍 Python & AI | DevTown | Course |
-| 🛠️ BE10x AI Tools Workshop | BE10x | Workshop |
-| 📰 Journal Publication | — | Research |
-| 🏆 Hackathon Participant | — | Competition |
-| 🔬 Project Expo Participant | — | Exhibition |
-
-👉 [View All Certificates →](https://github.com/Priya/Certifications)
+| Achievement | Issuer / Type |
+|---|---|
+| 🏢 Full Stack Web Development Internship (3 Months) | Pantech AI |
+| 📘 AI & ML in Materials Engineering | NPTEL |
+| 🐍 Python & AI | DevTown |
+| 🛠️ AI Tools Workshop | BE10x |
+| 🥈 2nd Prize — Paper Presentation (2025) | Competition |
+| 🏆 Hackathon & Ideathon Participant (5+) | Competition |
 
 ---
 
@@ -124,7 +123,7 @@ priyagowda11-jpg = {
 
 > *Becoming an **Embedded AI Systems Engineer** — building systems where sensors collect real-world data, ML models predict outcomes, and dashboards display intelligence in real time.*
 
-**Next milestone:** Complete EV Charge Prediction App → Deploy → Add to portfolio.
+**Next milestone:** Ship the ASHA Worker App → Deploy → Add to portfolio.
 
 ---
 
@@ -132,8 +131,9 @@ priyagowda11-jpg = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN-URL)
-[![Portfolio](https://img.shields.io/badge/See_My_Work-Portfolio-FF5722?style=for-the-badge&logo=google-chrome)](https://YOUR-PORTFOLIO-URL)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/priya-g-07422429a/)
+[![Portfolio](https://img.shields.io/badge/See_My_Work-Portfolio-FF5722?style=for-the-badge&logo=google-chrome)](https://priya-gowda-portfolio.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-priyag11032005%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyag11032005@gmail.com)
 
 </div>
 
